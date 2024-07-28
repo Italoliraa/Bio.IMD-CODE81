@@ -20,6 +20,7 @@ button{
     background: rgb(60, 179, 113);
     box-shadow: 4px 4px 4px 4px black;
     border: 2px solid greenyellow;
+    color: white;
 }
 button:hover{
     background: black;
@@ -31,5 +32,5 @@ button:hover{
 
 a{
     text-decoration: none;
-    color: white;
+    
 }
