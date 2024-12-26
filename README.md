@@ -8,7 +8,7 @@ Oferecemos aulas de programação personalizadas para iniciantes, orientando voc
 * Direcionamento para o wpp da pessoa que vai ajudar o usuário a fazer um site.
 * Direcionar os estudantes de programação para o grupo no wpp. 
 
-![image](https://github.com/user-attachments/assets/c5a55fbb-a2b5-4dfd-bec2-051ca79b939e)
+![image](https://github.com/user-attachments/assets/ea62c279-9781-4c94-898c-fa0763ad3bde)
 
 ## Tecnologia
 * HTML.
